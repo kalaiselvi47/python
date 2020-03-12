@@ -1,0 +1,8 @@
+k=input()
+v=input(k)
+c=[]
+for i in v:
+    if(i not in c):
+        c.append(i)
+d.len(c)
+print(d)
